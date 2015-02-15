@@ -1,0 +1,32 @@
+name: Paris
+country: fr
+managers:
+
+- name: Guillaume Lesur
+  image: guillaume2.png
+  linkedin: http://fr.linkedin.com/in/guillaumelesur
+  facebook: https://www.facebook.com/guillaume.lesur
+  twitter: https://twitter.com/bipbip
+
+- name: Guillaume Montard
+  image: guillaumemontard.png
+  linkedin: http://fr.linkedin.com/in/guillaumemontard
+  twitter: https://twitter.com/g_montard
+
+- name: Julien Mangeard
+  image: julien2.png
+  linkedin: http://fr.linkedin.com/pub/julien-mangeard/1/812/22
+  facebook: https://www.facebook.com/julien.mangeard
+  twitter: https://twitter.com/JulienMangeard
+
+- name: Julien Barbier
+  image: julien.png
+  linkedin: http://www.linkedin.com/in/julienbarbier
+  facebook: http://www.facebook.com/julienbarbier42
+  twitter: http://twitter.com/julienbarbier42
+
+- name: Manfred Touron
+  image: moul.png
+  linkedin: http://fr.linkedin.com/in/manfredtouron
+  twitter: https://twitter.com/moul
+

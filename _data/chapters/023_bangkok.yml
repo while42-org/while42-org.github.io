@@ -1,0 +1,15 @@
+name: Bangkok
+country: th
+managers:
+
+- name: Amine Mouafik
+  image: amine.png
+  linkedin: https://www.linkedin.com/in/mouafik
+  facebook: https://www.facebook.com/mouafik
+  twitter: https://twitter.com/kytwb
+
+- name: Samuel Berthe
+  image: samuel_berthe.jpg
+  linkedin: https://th.linkedin.com/in/samuelberthe/en
+  facebook: https://www.facebook.com/berthe.samuel
+  twitter: https://twitter.com/SamuelBerthe

@@ -1,0 +1,13 @@
+name: Taipei
+country: tw
+managers:
+
+- name: Thomas Kuiper
+  image: thomas-kuiper.jpg
+  linkedin: http://www.linkedin.com/in/engerim
+  twitter: https://twitter.com/engerim42
+
+- name: Mose
+  image: mose.jpg
+  linkedin: https://www.linkedin.com/in/ozmose
+  twitter: https://twitter.com/mo5e

@@ -1,0 +1,12 @@
+    <div class="module">
+      <p>
+        <strong>404?</strong><br />
+        Vous n'avez pas trouvé votre ville ci-dessus ? <b>Pour créer un chapitre while42 dans votre ville</b>, contactez nous à cette addresse : d3JpdGUwQGdtYWlsLmNvbQ==
+      </p>
+      <p>
+        Voici les chapitres actuellement en cours de création :<br>
+        {% for chapter_to_be in site.data.chapters_to_be %}
+        - <b>{{ chapter_to_be }}</b><br>
+        {% endfor %}
+      </p>
+    </div>

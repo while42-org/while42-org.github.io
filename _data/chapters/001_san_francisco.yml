@@ -1,0 +1,20 @@
+name: San Francisco
+country: us
+managers:
+
+- name: Julien Barbier
+  image: julien.png
+  linkedin: http://www.linkedin.com/in/julienbarbier
+  facebook: http://www.facebook.com/julienbarbier42
+  twitter: http://twitter.com/julienbarbier42
+
+- name: Sylvain Kalache
+  image: sylvain.png
+  linkedin: http://www.linkedin.com/in/sylvainkalache
+  twitter: http://twitter.com/sylvainkalache
+
+- name: Florent Crivello
+  image: florent.png
+  linkedin: http://www.linkedin.com/pub/florent-crivello/52/901/64
+  twitter: http://twitter.com/Altimor
+

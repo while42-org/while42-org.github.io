@@ -1,0 +1,19 @@
+name: Beijing
+country: cn
+managers:
+
+- name: Christian Shengjie Zhan
+  image: christian.png
+  linkedin: http://cn.linkedin.com/pub/shengjie-zhan/5/566/268/
+  facebook: https://www.facebook.com/jeremydf
+  twitter: https://twitter.com/de_france
+
+- name: Thibault Bronchain
+  image: thibault.png
+  linkedin: https://www.linkedin.com/profile/view?id=103375446
+  facebook: https://www.facebook.com/thibault.bronchain
+  twitter: https://twitter.com/tbronchain
+
+- name: Jerome Scola
+  image: jeromes.jpg
+  linkedin: https://www.linkedin.com/profile/view?id=2461589

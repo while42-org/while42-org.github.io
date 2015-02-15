@@ -1,0 +1,12 @@
+    <div class="module">
+      <p>
+        <strong>404?</strong><br />
+        You do not find your city above and <b>you would like to create a while42 in your city</b>? Contact us at this email: d3JpdGUwQGdtYWlsLmNvbQ==
+      </p>
+      <p>
+        These are the while42 chapters that members are creating right now:<br>
+        {% for chapter_to_be in site.data.chapters_to_be %}
+        - <b>{{ chapter_to_be }}</b><br>
+        {% endfor %}
+      </p>
+    </div>

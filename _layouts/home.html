@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<div class="home">
+
+  <article class="home-content">
+    {{ content }}
+  </article>
+
+  <div class="sidebar">
+
+    {% include {{page.category}}/sidebar_head.html %}
+
+    {% assign allchapters = site.data.chapters | sort %}
+    {% for chapter_hash in allchapters %}
+    {% assign chapter = chapter_hash[1] %}
+    <div class="module">
+      <ul>
+        <li>
+          <h3>
+            {% if chapter.country %}
+            <img src="{{ site.baseurl }}/flags/{{ chapter.country }}.gif">
+            {% endif %}
+            {{ chapter.name }}
+          </h3>
+          <ul>
+            {% for manager in chapter.managers %}
+            <li>
+            <img src="{{ site.baseurl }}/avatars/{{ manager.image }}" class="avatar">
+            {{ manager.name }}<br>
+            {% if manager.linkedin %}
+            <a href="{{ manager.linkedin }}"><img src="{{ site.baseurl }}/icons/linkedin.png"></a>
+            {% endif %}
+            {% if manager.facebook %}
+            <a href="{{ manager.facebook }}"><img src="{{ site.baseurl }}/icons/facebook.png"></a>
+            {% endif %}
+            {% if manager.google %}
+            <a href="{{ manager.google }}"><img src="{{ site.baseurl }}/icons/gplus.png"></a>
+            {% endif %}
+            {% if manager.twitter %}
+            <a href="{{ manager.twitter }}"><img src="{{ site.baseurl }}/icons/twitter.png"></a>
+            {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+      </ul>
+    </div>
+    {% endfor %}
+
+    {% include {{page.category}}/sidebar_foot.html %}
+
+    <div class="twitter">
+    <a class="twitter-timeline" width="332" height="600" href="https://twitter.com/search?q=%23while42" data-widget-id="370322474254077955">Tweets about "#while42"</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+
+  </div>
+
+</div>

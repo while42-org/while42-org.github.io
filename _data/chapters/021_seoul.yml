@@ -1,0 +1,13 @@
+name: Seoul
+country: kr
+managers:
+
+- name: Ivan Berlocher
+  image: ivan.png
+  linkedin: http://kr.linkedin.com/in/ivanberlocher
+
+- name: Mickael Mas
+  image: mickael.png
+  linkedin: http://www.linkedin.com/in/mickaelmas
+  facebook: https://www.facebook.com/mickael.mas
+  twitter: https://twitter.com/mickael_mas

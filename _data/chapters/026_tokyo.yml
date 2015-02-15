@@ -1,0 +1,10 @@
+name: Tokyo
+country: jp
+managers:
+
+- name: Marc Rollin
+  image: marc.png
+  linkedin: http://www.linkedin.com/in/mcrollin
+  facebook: https://www.facebook.com/rollin.marc
+  twitter: https://twitter.com/rollingmarc
+

@@ -1,0 +1,14 @@
+name: Montpellier
+country: fr
+managers:
+
+- name: Lou Husson
+  image: lou.png
+  linkedin: http://www.linkedin.com/in/louhusson
+  twitter: https://twitter.com/loukan42
+
+- name: Anthony Palasse
+  image: anthony.png
+  linkedin: http://fr.linkedin.com/in/anthonypalasse
+  twitter: https://twitter.com/anthonypalasse
+

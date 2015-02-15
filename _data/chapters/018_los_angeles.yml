@@ -1,0 +1,14 @@
+name: Los Angeles
+country: us
+managers:
+
+- name: Ludovic Francois
+  image: ludovic.png
+  linkedin: http://www.linkedin.com/in/ludovicfrancois
+  facebook: https://www.facebook.com/lfrancois
+
+- name: Julien Fortin
+  image: julienf.png
+  linkedin: http://www.linkedin.com/in/fortinjulien
+  facebook: https://www.facebook.com/Julienfortin
+  twitter: https://twitter.com/Julien_Fortin
