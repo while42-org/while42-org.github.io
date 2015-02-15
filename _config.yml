@@ -2,7 +2,7 @@
 title: While42
 email: your-email@domain.com
 description: French Tech Engineers Alumni Network
-baseurl: "/w42-proto" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://while42.org" # the base hostname & protocol for your site
 twitter_username: while42
 github_username:  while42-org
