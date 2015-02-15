@@ -26,22 +26,22 @@ layout: default
           <ul>
             {% for manager in chapter.managers %}
             <li>
-            <img src="{{ site.baseurl }}/avatars/{{ manager.image }}" class="avatar">
+            <img src="{{ site.baseurl }}/avatars/{{ manager.image }}" width="50" height="50" class="avatar" alt="photo">
             {{ manager.name }}<br>
             {% if manager.linkedin %}
-            <a href="{{ manager.linkedin }}"><img src="{{ site.baseurl }}/icons/linkedin.png"></a>
+            <a href="{{ manager.linkedin }}"><img src="{{ site.baseurl }}/icons/linkedin.png" width="16" height="16" alt="linkedin"></a>
             {% endif %}
             {% if manager.facebook %}
-            <a href="{{ manager.facebook }}"><img src="{{ site.baseurl }}/icons/facebook.png"></a>
+            <a href="{{ manager.facebook }}"><img src="{{ site.baseurl }}/icons/facebook.png" width="16" height="16" alt="facebook"></a>
             {% endif %}
             {% if manager.google %}
-            <a href="{{ manager.google }}"><img src="{{ site.baseurl }}/icons/gplus.png"></a>
+            <a href="{{ manager.google }}"><img src="{{ site.baseurl }}/icons/gplus.png" width="16" height="16" alt="google"></a>
             {% endif %}
             {% if manager.twitter %}
-            <a href="{{ manager.twitter }}"><img src="{{ site.baseurl }}/icons/twitter.png"></a>
+            <a href="{{ manager.twitter }}"><img src="{{ site.baseurl }}/icons/twitter.png" width="16" height="16" alt="twitter"></a>
             {% endif %}
             {% if manager.github %}
-            <a href="{{ manager.github }}"><img src="{{ site.baseurl }}/icons/github.png"></a>
+            <a href="{{ manager.github }}"><img src="{{ site.baseurl }}/icons/github.png" width="16" height="16" alt="github"></a>
             {% endif %}
             </li>
             {% endfor %}
