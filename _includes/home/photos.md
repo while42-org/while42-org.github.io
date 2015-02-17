@@ -2,8 +2,6 @@
 [![](http://farm4.staticflickr.com/3711/9269942997_809ff5a11a_m.jpg)](http://www.flickr.com/photos/while42/9269942997)  
 [![](http://farm4.staticflickr.com/3773/9215411783_e337f85080_m.jpg)](http://www.flickr.com/photos/while42/9215411783)
 [![](http://farm8.staticflickr.com/7386/9218184500_2e8e538342_m.jpg)](http://www.flickr.com/photos/while42/9218184500)  
-[![](http://farm4.staticflickr.com/3773/9215411783_e337f85080_m.jpg)](http://www.flickr.com/photos/while42/9158820739)
-[![](http://farm8.staticflickr.com/7386/9218184500_2e8e538342_m.jpg)](http://www.flickr.com/photos/while42/9218184500)  
 [![](http://farm6.staticflickr.com/5339/9158820739_837dd64533_m.jpg)](http://www.flickr.com/photos/while42/9158820739)
 [![](http://farm8.staticflickr.com/7415/9050451575_4ae0ff0113_m.jpg)](http://www.flickr.com/photos/while42/9050451575)  
 [![](http://farm8.staticflickr.com/7296/8735554985_e1d14c1b04_m.jpg)](http://www.flickr.com/photos/while42/8735554985)
@@ -11,6 +9,6 @@
 [![](http://farm9.staticflickr.com/8385/8601098548_86554f82bd_m.jpg)](http://www.flickr.com/photos/while42/8601098548)
 [![](http://farm9.staticflickr.com/8243/8572667262_f8cba606f3_m.jpg)](http://www.flickr.com/photos/while42/8572667262)  
 [![](http://farm9.staticflickr.com/8245/8498317615_d61db87b60_m.jpg)](http://www.flickr.com/photos/while42/8498317615)
-[![](http://farm9.staticflickr.com/8341/8286597568_c274d422da_m.jpg)](http://www.flickr.com/photos/while42/8286597568)
+[![](http://farm9.staticflickr.com/8341/8286597568_c274d422da_m.jpg)](http://www.flickr.com/photos/while42/8286597568)  
 
 [More photos on Flickr](http://www.flickr.com/photos/while42/sets)
