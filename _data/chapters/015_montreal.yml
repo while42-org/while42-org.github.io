@@ -6,15 +6,11 @@ managers:
   image: melanie.jpg
   linkedin: http://ca.linkedin.com/pub/mélanie-lepage/8/63b/869
 
-- name: Yanis Guenane
-  image: yanis.jpg
-  linkedin: http://www.linkedin.com/in/yanisguenane
-  twitter: https://twitter.com/yanisguenane
-
-- name: Mathilde Maury
-  image: mathilde.jpg
-  linkedin: http://ca.linkedin.com/in/mathildemaury
-
 - name: Rémy Fagot
   image: remy.jpg
   linkedin: http://ca.linkedin.com/pub/rémy-fagot/2a/b0b/173
+
+- name: Thomas Tu
+  image: thomas-tu.jpg
+  linkedin: http://ca.linkedin.com/in/thomastu
+  twitter: https://twitter.com/thomastumtl
