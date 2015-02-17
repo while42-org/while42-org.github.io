@@ -59,8 +59,10 @@
     float: right;
     position: relative;
     top: 30px;
+    .fb-like {
+      margin-top: -30px;
+    }
   }
-
 
 }
 
