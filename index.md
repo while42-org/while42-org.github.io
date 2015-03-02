@@ -5,7 +5,7 @@ category: en
 
 <a href="http://www.flickr.com/photos/while42/8721270957/" title="while42 San Francisco meetup #4"><img src="http://farm8.staticflickr.com/7302/8721270957_36443d5b20_z.jpg" width="640" height="144"></a>
 
-All around the globe french tech engineers are recognized for their skills, but they suffer from a lack of real alumni associations. So we're building one.
+All around the globe french tech engineers are recognized for their skills, but they suffer from a lack of a real global association. So we built one.
 
 
 while42 chapters
@@ -13,7 +13,7 @@ while42 chapters
 
 {% include home/map.html %}
 
-We are organized by chapters. Each chapter represents a city and his members and has one or more managing directors (see on the right).
+We are organized by chapters. Each chapter represents a city and his members and has one or more managers, organizers, catalysts (we call them **root**, see the list on the right).
 If you want to create a while42 chapter in your city, you can contact us at this email: d3JpdGUwQGdtYWlsLmNvbQ==
 
 
@@ -39,7 +39,7 @@ FAQ
 ====
 
 ## How to join while42?
-To join while42 you can either be introduced by a friend who is already a member, or if you do not know anyone from while42, you can send an email to one of the chapter manager telling him you are interested to join. (see on the right)
+To join while42 you can either be introduced by a friend who is already a member, or if you do not know anyone from while42, you can send an email to one of the chapter root telling him you are interested to join. (see on the right)
 
 ## Which school should I be from to join while42?
 while42 is not attached to any french engineering school. We have members from <a href="http://www.epitech.net">Epitech</a>, <a href="http://www.supinfo.com/">Supinfo</a>, <a href="http://www.epita.fr/">Epita</a>, ENSTA, Paris 7, Université de Marne-la-Vallée, Efrei, Universite de Nantes, Telecom Lille, Ecole polytechnique, HEI, Ecole centrale de Lyon, Université de Technologie de Compiègne, Institut I.M.A.C - Paris 2, Ecole Supérieure de Mécanique et d'Electricité SUDRIA, CEA Saclay, Ecole supérieure d'Informatique Electronique et Automatique...
