@@ -19,12 +19,6 @@ managers:
   facebook: https://www.facebook.com/julien.mangeard
   twitter: https://twitter.com/JulienMangeard
 
-- name: Julien Barbier
-  image: julien.png
-  linkedin: http://www.linkedin.com/in/julienbarbier
-  facebook: http://www.facebook.com/julienbarbier42
-  twitter: http://twitter.com/julienbarbier42
-
 - name: Manfred Touron
   image: moul.png
   linkedin: http://fr.linkedin.com/in/manfredtouron
