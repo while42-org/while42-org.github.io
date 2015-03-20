@@ -3,6 +3,6 @@ country: nz
 managers:
 
 - name: Vincent Tellier
-   image: vincent_auckland.png
-   linkedin: nz.linkedin.com/in/vtllr
-   twitter: https://twitter.com/vtllr
+  image: vincent_auckland.png
+  linkedin: https://nz.linkedin.com/in/vtllr
+  twitter: https://twitter.com/vtllr
