@@ -2,7 +2,7 @@ name: Melbourne
 country: au
 managers:
 
-- name: Vincent Tellier
-  image: vincent-melbourne.png
-  linkedin: http://www.linkedin.com/in/telliervincent33/en
-  twitter: https://twitter.com/vtllr
+- name: Guillaume Legros
+   image: no-photo.png
+  # linkedin: http://www.linkedin.com/in/telliervincent33/en
+  # twitter: https://twitter.com/vtllr
