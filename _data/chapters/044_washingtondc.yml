@@ -1,0 +1,9 @@
+name: Washington, DC
+country: us
+managers:
+
+- name: Ronan Berder
+  image: ronan.jpg
+  linkedin: http://linkedin.com/in/ronanberder
+  twitter: https://twitter.com/hunvreus
+  github: https://github.com/hunvreus
