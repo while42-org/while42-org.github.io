@@ -1,3 +1,7 @@
 name: Tokyo
 country: jp
 managers:
+
+- name: Jérôme Guermont
+  image: jguermont.jpg
+  linkedin: http://jp.linkedin.com/in/jguermont
