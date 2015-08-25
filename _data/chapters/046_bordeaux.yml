@@ -1,0 +1,18 @@
+name: Bordeaux
+country: fr
+managers:
+
+- name: Hermes Bozec
+  image: hermes.png
+  linkedin: https://www.linkedin.com/in/hermesbozec
+  twitter: https://twitter.com/hermestwi
+
+- name: Mikael Letang
+  image: mikael.png
+  linkedin: https://www.linkedin.com/in/mikaelletang
+  twitter: https://twitter.com/mikael_letang
+
+- name: Arnaud Lemaire
+  image: arnaud_lemaire.png
+  linkedin: https://www.linkedin.com/in/lilobase
+  twitter: https://twitter.com/lilobase
