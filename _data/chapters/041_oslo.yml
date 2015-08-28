@@ -1,5 +1,5 @@
 name: Oslo
-country: no
+country: "no"
 managers:
 
 - name: Thomas Bassetto
