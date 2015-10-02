@@ -1,3 +1,11 @@
 name: Melbourne
 country: au
 managers:
+
+- name: Etienne Zwiebel
+  image: etienne_melbourne.jpg
+  linkedin: https://au.linkedin.com/in/ezwiebel
+
+- name: Marc Mathieu
+  image: marc_melbourne.png
+  linkedin: https://au.linkedin.com/pub/marc-mathieu/16/4a9/56b
