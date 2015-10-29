@@ -11,3 +11,8 @@ managers:
 - name: Selim Dogguy
   image: selim.jpg
   linkedin: http://www.linkedin.com/in/selimdogguy
+
+- name: Benjamin Magnan
+  image: benjamin.jpg
+  linkedin: https://www.linkedin.com/pub/benjamin-magnan/5/46/632
+  twitter: http://twitter.com/benjaminmagnan
