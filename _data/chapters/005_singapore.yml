@@ -2,6 +2,12 @@ name: Singapore
 country: sg
 managers:
 
+- name: Mathieu François
+  image: mathieuFR.png
+  linkedin: https://www.linkedin.com/in/matieux
+  facebook: https://www.facebook.com/matieuxx
+  twitter: https://twitter.com/matieuxx
+  
 - name: Mathieu Feulvarc'h
   image: mathieu.png
   linkedin: http://sg.linkedin.com/in/feulvarch
