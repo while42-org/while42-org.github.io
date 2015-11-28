@@ -1,13 +1,3 @@
 name: Nantes
 country: fr
 managers:
-
-- name: Quentin Adam
-  image: quentin.png
-  linkedin: http://fr.linkedin.com/in/waxzce
-  facebook: https://www.facebook.com/quentin.adam
-  twitter: https://twitter.com/waxzce
-
-- name: David Martin
-  image: d2.png
-  linkedin: http://fr.linkedin.com/in/dmartinprofile
