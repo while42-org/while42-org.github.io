@@ -6,7 +6,7 @@ French writer | 2014-06-01
 ## [De San Francisco à Bucarest, les ingénieurs français s’unissent en réseau](http://frenchweb.fr/de-san-francisco-a-bucarest-les-ingenieurs-francais-sunissent-en-reseau/120209)
 by FrenchWeb | 2013-06-13
 
-<iframe frameborder="0" width="560" height="360" src="http://www.dailymotion.com/embed/video/x10u11m"></iframe>  
+<iframe frameborder="0" width="100%" height="360" src="http://www.dailymotion.com/embed/video/x10u11m"></iframe>  
 <a href="http://www.dailymotion.com/video/x10u11m_julien-barbier-while42_tech" target="_blank">Julien Barbier, While42</a> <i>by <a href="http://www.dailymotion.com/frenchweb" target="_blank">frenchweb</a></i>
 
 ## [While 42, le réseau des développeurs français](http://www.usine-digitale.fr/article/while-42-le-reseau-des-developpeurs-francais.N244036)
@@ -15,7 +15,7 @@ by Nastasia Peteuil | 2014-03-27
 ## [A San Francisco, la « French Mafia » s’organise](http://frenchweb.fr/a-san-francisco-la-french-mafia-sorganise/135316)
 by FrenchWeb | 2013-12-20
 
-<iframe width="560" height="360" src="//www.youtube.com/embed/bOm_AohYbQY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="//www.youtube.com/embed/bOm_AohYbQY" frameborder="0" allowfullscreen></iframe>
 by <a href="www.linkedin.com/pub/anne-leconte-degenne/32/a79/304">Anne</a> Leconte-Degenne French Consulate in San Francisco | 2013-12-16
 
 ## [while42 vu par un membre](http://madeinsyria.fr/posts/while42-vu-en-tant-que-membre)
@@ -29,4 +29,3 @@ by Ingenieurs.com | 2013-06-17
 
 ## [While42, un réseau international d’experts informatiques](http://www.epitech.eu/lancement-while42-reseautage-networking-epitech-epita-reseau-experts-informatiques-art1506.html)
 by Epitech | 2013-07-16
-
