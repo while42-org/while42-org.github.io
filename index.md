@@ -49,7 +49,7 @@ We also have developers with no diploma.
 We speak, <a href="http://www.flickr.com/photos/while42/8599999535/">have fun</a> and we eat very <a href="http://www.flickr.com/photos/while42/8601096954/">healthy food</a>. We also have one of us giving <a href="http://www.flickr.com/photos/while42/8499425290/">a talk</a> on a subject of his choice (technical or not). Have a look at our <a href="http://www.flickr.com/photos/while42/">flickr page</a>.
 
 ## What is the double pipe ||?
-<iframe width="560" height="315" src="//www.youtube.com/embed/bfi4lcxYzBw" frameborder="0" allowfullscreen></iframe>  
+<iframe width="100%" height="315" src="//www.youtube.com/embed/bfi4lcxYzBw" frameborder="0" allowfullscreen></iframe>  
 
 ## Do you have a LinkedIn or Facebook group?
 No. We have this website, a private mailing list and sometimes we tweet with the <a href="https://twitter.com/search/realtime?q=%23while42&src=typd">#while42</a> tag. We prefer to spend time <a href="http://www.urbandictionary.com/define.php?term=IRL">IRL</a> than in <a href="http://www.linkedin.com/search-fe/group_search?pplSearchOrigin=GLHD&keywords=epitech">yet another useless LinkedIn alumni group</a>.
@@ -67,4 +67,3 @@ Press
 Photos
 =======
 {% include home/photos.md %}
-
