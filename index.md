@@ -14,7 +14,7 @@ while42 chapters
 {% include home/map.html %}
 
 We are organized by chapters. Each chapter represents a city and his members and has one or more managers, organizers, catalysts (we call them **root**, see the list on the right).
-If you want to create a while42 chapter in your city, you can contact us at this email: d3JpdGUwQGdtYWlsLmNvbQ==
+If you want to create a while42 chapter in your city, you can contact us at this email: c3lsdmFpbkBrYWxhY2hlLmZy==
 
 
 Values / Rules
