@@ -1,0 +1,8 @@
+name: Seattle
+country: us
+managers:
+
+- name: Frederic Journoud
+  image: frederic.jpg
+  linkedin: http://www.linkedin.com/in/fredericjournoud
+
