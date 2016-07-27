@@ -1,5 +1,5 @@
 # Site settings
-title: While42
+title: while42
 email: your-email@domain.com
 description: French Tech Engineers Network
 baseurl: "" # the subpath of your site, e.g. /blog/
