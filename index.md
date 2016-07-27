@@ -5,7 +5,7 @@ category: en
 
 <a href="http://www.flickr.com/photos/while42/8721270957/" title="while42 San Francisco meetup #4"><img src="http://farm8.staticflickr.com/7302/8721270957_36443d5b20_z.jpg" width="640" height="144"></a>
 
-All around the globe french tech engineers are recognized for their skills, but they suffer from a lack of a real global association. So we built one.
+All around the globe, French tech engineers are recognized for their skills, but they suffer from a lack of a real global association. So we built one.
 
 
 while42 chapters
@@ -21,7 +21,7 @@ Values / Rules
 ===============
 
 ## 0. French only
-To become a member of while42 you should be either a french tech OR someone speaking french and having a computer science degree delivered by a french school / university.
+To become a member of while42, you should be either a French tech OR someone speaking French and having a computer science degree delivered by a French school / university.
 
 ## 1. Tech Engineers only
 All while42 members are tech engineers (developers, ops, devops, sys-admin, <a href="http://www.youtube.com/watch?v=rlarCLhzfoU">ingenieurs informaticiens</a>, CTO ...) and/or have a degree from a french engineering tech school ([Epitech](http://www.epitech.net), [Supinfo](http://www.supinfo.com), [Epita](http://www.epita.fr), ...). There is no filter by degree or school. You do not have to have a degree to join as soon as you are a tech engineer (and french).
