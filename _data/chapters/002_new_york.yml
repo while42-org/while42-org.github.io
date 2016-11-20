@@ -2,20 +2,9 @@ name: New York
 country: us
 managers:
 
-- name: Michael Ortali
-  image: michael.png
-  linkedin: http://www.linkedin.com/in/xethorn
-  twitter: http://twitter.com/xethorn
-
-
 - name: Pierre-Alexandre Meyer
   image: pierre.png
   linkedin: http://www.linkedin.com/in/pierrealexandremeyer
   twitter: http://twitter.com/pamonrails
 
-
-- name: Guillaume J. Charmes
-  image: guillaume.jpg
-  linkedin: http://www.linkedin.com/in/guillaumecharmes
-  twitter: http://twitter.com/charme_g
 
