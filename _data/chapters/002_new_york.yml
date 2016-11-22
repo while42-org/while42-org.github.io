@@ -2,9 +2,7 @@ name: New York
 country: us
 managers:
 
-- name: Pierre-Alexandre Meyer
-  image: pierre.png
-  linkedin: http://www.linkedin.com/in/pierrealexandremeyer
-  twitter: http://twitter.com/pamonrails
-
-
+- name: Alexei Chemenda
+  image: alexei.jpg
+  linkedin: http://www.linkedin.com/in/alexeichemenda
+  twitter: http://twitter.com/alexeichemenda
