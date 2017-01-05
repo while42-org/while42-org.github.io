@@ -2,9 +2,7 @@ name: Luxembourg
 country: lu
 managers:
 
-- name: Guillaume Moreau
-  image: guillaumemoreau_luxembourg.jpg
-  linkedin: https://fr.linkedin.com/in/moreauguillaume
-  facebook: https://www.facebook.com/ixalle
-  twitter: https://twitter.com/ixalle
-
+- name: Julien Stuyck
+  image: j2.png
+  linkedin: http://www.linkedin.com/profile/view?id=30939716
+  twitter: https://twitter.com/while42lux

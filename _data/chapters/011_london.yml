@@ -1,11 +1,7 @@
 name: London
 country: gb
 managers:
-
-- name: Julien Stuyck
-  image: j2.png
-  linkedin: http://www.linkedin.com/profile/view?id=30939716
-
+  
 - name: Guillaume Agis
   image: guillaume_agis.jpg
   linkedin: https://www.linkedin.com/in/guillaumeagis
