@@ -17,10 +17,3 @@ managers:
 - name: Jerome Scola
   image: jeromes.jpg
   linkedin: https://www.linkedin.com/profile/view?id=2461589
-
-- name: Amine Mouafik
-  image: amine.png
-  linkedin: https://www.linkedin.com/in/mouafik
-  facebook: https://www.facebook.com/mouafik
-  twitter: https://twitter.com/kytwb
-  github: https://github.com/kytwb
