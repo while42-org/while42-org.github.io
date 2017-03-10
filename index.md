@@ -39,7 +39,7 @@ FAQ
 ====
 
 ## How to join while42?
-To join while42 you can either be introduced by a friend who is already a member, or if you do not know anyone from while42, you can send an email to one of the chapter root telling him you are interested in joining. (see on the right)
+To join while42 you can either be introduced by a friend who is already a member, or if you do not know anyone from while42, you can send an email to one of the chapter root telling him/her you are interested in joining. (see on the right)
 
 ## Which school should I be from to join while42?
 while42 is not attached to any French engineering school. We have members from <a href="http://www.epitech.net">Epitech</a>, <a href="http://www.supinfo.com/">Supinfo</a>, <a href="http://www.epita.fr/">Epita</a>, ENSTA, Paris 7, Université de Marne-la-Vallée, Efrei, Universite de Nantes, Telecom Lille, Ecole polytechnique, HEI, Ecole centrale de Lyon, Université de Technologie de Compiègne, Institut I.M.A.C - Paris 2, Ecole Supérieure de Mécanique et d'Electricité SUDRIA, CEA Saclay, Ecole supérieure d'Informatique Electronique et Automatique...
