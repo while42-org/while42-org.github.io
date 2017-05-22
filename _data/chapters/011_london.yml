@@ -6,3 +6,8 @@ managers:
   image: guillaume_agis.jpg
   linkedin: https://www.linkedin.com/in/guillaumeagis
   twitter: https://twitter.com/GuillaumeAgis
+
+- name: David Hatanian
+  image: david_hatanian.jpg
+  linkedin: https://www.linkedin.com/in/davidhatanian
+  twitter: https://twitter.com/DHatanian
