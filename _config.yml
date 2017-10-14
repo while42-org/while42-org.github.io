@@ -8,7 +8,6 @@ twitter_username: while_42
 github_username:  while42-org
 
 destination: ./_site
-plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
 
