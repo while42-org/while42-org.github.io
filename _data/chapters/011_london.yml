@@ -11,3 +11,8 @@ managers:
   image: david_hatanian.jpg
   linkedin: https://www.linkedin.com/in/davidhatanian
   twitter: https://twitter.com/DHatanian
+
+- name: Tim Tosi
+  image: tim_tosi.jpg
+  linkedin: https://www.linkedin.com/in/timtosi
+  github: https://github.com/TimTosi
