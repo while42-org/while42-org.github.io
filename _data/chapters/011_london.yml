@@ -1,11 +1,12 @@
 name: London
 country: gb
 managers:
-  
-- name: Guillaume Agis
-  image: guillaume_agis.jpg
-  linkedin: https://www.linkedin.com/in/guillaumeagis
-  twitter: https://twitter.com/GuillaumeAgis
+
+- name: Joan Goyeau
+  image: joan_goyeau.jpg
+  linkedin: https://www.linkedin.com/in/goyeau
+  twitter: https://twitter.com/joang38
+  github: https://github.com/joan38
 
 - name: David Hatanian
   image: david_hatanian.jpg
