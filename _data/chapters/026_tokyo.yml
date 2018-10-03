@@ -1,3 +1,8 @@
 name: Tokyo
 country: jp
 managers:
+
+- name: Thomas Brennetot
+  image: thomas_b_tokyo.jpeg
+  linkedin: https://www.linkedin.com/in/thomasbrennetot/
+  twitter: https://twitter.com/ThomasOneDev
