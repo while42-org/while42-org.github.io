@@ -22,3 +22,8 @@ managers:
   image: emmanuel.jpg
   linkedin: https://www.linkedin.com/in/emmanuelcron
   facebook: https://www.facebook.com/emmanuel.cron
+
+- name: Anne-Sophie Le Bloas
+  image: annesophie.jpg
+  linkedin: https://www.linkedin.com/in/aslebloas/
+  facebook: https://www.facebook.com/sophie.anne.5099
