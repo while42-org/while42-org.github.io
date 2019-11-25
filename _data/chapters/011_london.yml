@@ -2,11 +2,6 @@ name: London
 country: gb
 managers:
 
-- name: David Hatanian
-  image: david_hatanian.jpg
-  linkedin: https://www.linkedin.com/in/davidhatanian
-  twitter: https://twitter.com/DHatanian
-
 - name: Florent Guillemot
   image: florent_guillemot.jpg
   linkedin: https://www.linkedin.com/in/florent-guillemot-86387b6a
