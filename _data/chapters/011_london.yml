@@ -2,18 +2,13 @@ name: London
 country: gb
 managers:
 
-- name: Joan Goyeau
-  image: joan_goyeau.jpg
-  linkedin: https://www.linkedin.com/in/goyeau
-  twitter: https://twitter.com/joang38
-  github: https://github.com/joan38
+- name: Florent Guillemot
+  image: florent_guillemot.jpg
+  linkedin: https://www.linkedin.com/in/florent-guillemot-86387b6a
+  github: https://github.com/CoreFloDev
 
-- name: David Hatanian
-  image: david_hatanian.jpg
-  linkedin: https://www.linkedin.com/in/davidhatanian
-  twitter: https://twitter.com/DHatanian
-
-- name: Tim Tosi
-  image: tim_tosi.jpg
-  linkedin: https://www.linkedin.com/in/timtosi
-  github: https://github.com/TimTosi
+- name: Jean-Jacques Moiroux
+  image: jean-jacques_moiroux.jpg
+  linkedin: https://www.linkedin.com/in/jeanjacquesmoiroux
+  github: https://github.com/noxsnono
+  twitter: https://twitter.com/jjmoiroux
