@@ -2,12 +2,6 @@ name: Paris
 country: fr
 managers:
 
-- name: Guillaume Lesur
-  image: guillaume2.png
-  linkedin: http://fr.linkedin.com/in/guillaumelesur
-  facebook: https://www.facebook.com/guillaume.lesur
-  twitter: https://twitter.com/bipbip
-
 - name: Florent Trecourt
   image: keybee.png
   linkedin: http://fr.linkedin.com/in/trecourt
