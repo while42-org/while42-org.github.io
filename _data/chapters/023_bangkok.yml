@@ -5,6 +5,12 @@ managers:
 - name: Amine Mouafik
   image: amine.png
   linkedin: https://www.linkedin.com/in/mouafik
-  facebook: https://www.facebook.com/mouafik
   twitter: https://twitter.com/kytwb
   github: https://github.com/kytwb
+
+- name: Martin Finkel
+  image: martin.jpeg
+  linkedin: https://www.linkedin.com/in/martin-finkel-a9368571
+  twitter: https://twitter.com/martz2804
+  github: https://github.com/mfkl
+
