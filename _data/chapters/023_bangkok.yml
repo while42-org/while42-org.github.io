@@ -2,12 +2,6 @@ name: Bangkok
 country: th
 managers:
 
-- name: Amine Mouafik
-  image: amine.png
-  linkedin: https://www.linkedin.com/in/mouafik
-  twitter: https://twitter.com/kytwb
-  github: https://github.com/kytwb
-
 - name: Martin Finkel
   image: martin.jpeg
   linkedin: https://www.linkedin.com/in/martin-finkel-a9368571
