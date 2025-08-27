@@ -1,11 +1,14 @@
-# docker build -t while42/jekyll .
-# docker run -d -v "$PWD:/src" -p 4000:4000 while42/jekyll serve -H 0.0.0.0
+# docker build -t while42.org/website/jekyll .
+# ID=$(docker run -d -v "$PWD:/src" -p 4000:4000 while42.org/website/jekyll  serve -H 0.0.0.0)
+# docker logs -f $ID
+# docker rm -f $ID
 
-FROM ruby:2.2
+FROM ruby:3.3-bookworm
 MAINTAINER mose@mose.com
 
-RUN apt-get update && apt-get install -y node python-pygments && apt-get clean
-RUN gem install github-pages
+COPY Gemfile /tmp/
+RUN cd /tmp/ && bundle install
+RUN cd /tmp/ && rm -f Gemfile*
 
 VOLUME /src
 EXPOSE 4000
